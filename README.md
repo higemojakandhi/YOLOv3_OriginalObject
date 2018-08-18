@@ -15,35 +15,33 @@ due to its darkness that cannot be classified between shadow and the object itse
 6. Make it Learn
 
 # Example
-## **MISLABELED!!!!!**
-
 ### Test 1
-<img src="https://user-images.githubusercontent.com/11141442/44155797-31e9c51e-a0e9-11e8-929f-a511a153a6bf.png" alt="001" width="300px"/>
+<img src="https://user-images.githubusercontent.com/11141442/44299831-e1b40400-a337-11e8-9a6e-7d567dfc23ca.jpg" alt="001" width="300px"/>
 
 ### Test 2
-<img src="https://user-images.githubusercontent.com/11141442/44155798-327fba24-a0e9-11e8-9361-dc0561a0677c.png" alt="002" width="300px"/>
+<img src="https://user-images.githubusercontent.com/11141442/44299853-0dcf8500-a338-11e8-8b76-ee114ddeea38.jpg" alt="002" width="300px"/>
 
 
 ### Test 3
-<img src="https://user-images.githubusercontent.com/11141442/44155799-32c0e166-a0e9-11e8-8203-ff68b0f31232.png" alt="003" width="300px"/>
+<img src="https://user-images.githubusercontent.com/11141442/44299836-e973a880-a337-11e8-8612-04f823601a4e.jpg" alt="003" width="300px"/>
 
 ### Test 4
-<img src="https://user-images.githubusercontent.com/11141442/44155800-3339c7e8-a0e9-11e8-8144-7d7feb7b6502.png" alt="004" width="300px"/>
+<img src="https://user-images.githubusercontent.com/11141442/44299837-e973a880-a337-11e8-9870-127e340ba1a5.jpg" alt="004" width="300px"/>
 
 ### Test 5
-<img src="https://user-images.githubusercontent.com/11141442/44155802-33a17fbe-a0e9-11e8-9afb-275967256b6a.png" alt="005" width="300px"/>
+<img src="https://user-images.githubusercontent.com/11141442/44299838-ea0c3f00-a337-11e8-8845-871315a63673.jpg" alt="005" width="300px"/>
 
 ### Test 6
-<img src="https://user-images.githubusercontent.com/11141442/44155805-346f185c-a0e9-11e8-852b-bf887b0a0b34.png" alt="006" width="300px"/>
+<img src="https://user-images.githubusercontent.com/11141442/44299840-ea0c3f00-a337-11e8-88df-fd68271f2211.jpg" alt="006" width="300px"/>
 
 ### Test 7
-<img src="https://user-images.githubusercontent.com/11141442/44155807-353e7c8c-a0e9-11e8-8d7d-f743b5a82782.png" alt="007" width="300px"/>
+<img src="https://user-images.githubusercontent.com/11141442/44299841-eaa4d580-a337-11e8-99c3-0badb236cd6e.jpg" alt="007" width="300px"/>
 
 ### Test 8
-<img src="https://user-images.githubusercontent.com/11141442/44155808-35ae0020-a0e9-11e8-847f-7ca069d4fd92.png" alt="008" width="300px"/>
+<img src="https://user-images.githubusercontent.com/11141442/44299842-eaa4d580-a337-11e8-90b4-f6ef51871e75.jpg" alt="008" width="300px"/>
 
 ### Test 9
-<img src="https://user-images.githubusercontent.com/11141442/44155809-35fe2f00-a0e9-11e8-8d5e-96c3d4d44149.png" alt="009" width="300px"/>
+<img src="https://user-images.githubusercontent.com/11141442/44299843-ed072f80-a337-11e8-983a-adf6ae2778b6.jpg" alt="009" width="300px"/>
 
 ### Test 10
-<img src="https://user-images.githubusercontent.com/11141442/44155811-36ac9414-a0e9-11e8-9c67-0ff8a838ce9f.png" alt="010" width="300px"/>
+<img src="https://user-images.githubusercontent.com/11141442/44299844-ed9fc600-a337-11e8-8abc-a6d3ae3a6af8.jpg" alt="010" width="300px"/>
