@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html><head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#d2e58b",
+      "text": "#5b574b"
+    },
+    "button": {
+      "background": "#ffffff",
+      "text": "#5b574b"
+    }
+  },
+  "theme": "edgeless",
+  "content": {
+    "message": "Diese Website verwendet Cookies nur bei Benutzung der Kontaktformulare, um Ihnen die Eingabe der Daten zu erleichtern. Nach dem Schlie&szlig;en des Browsers werden sie gel&ouml;scht.",
+    "dismiss": "Das habe ich verstanden.",
+    "link": "Datenschutzerkl&auml;rung",
+    "href": "http://www.dreschflegel-saatgut.de/datenschutzerklaerung.php"
+  }
+})});
+</script><title>Dreschflegel-Bio-Saatgut - Datei leider nicht gefunden</title>
+
+<link rel="stylesheet" type="text/css" href="/_inc/flegel.css"> 
+
+<meta name="description" content="G&#228;rtnern im Einklang mit der Natur, biologisches Saatgut">
+
+<meta name="keywords" content="Biologisches Saatgut, Bio-Saat"></head>
+
+<body>
+
+<div id="Seite">
+
+<div id="Banner">
+
+<div class="logo"><img src="/_img/logo.jpg" width="229" height="275" alt="Dreschflegel GbR - Biologisches Saatgut - Logo"></div><div class="bannerbild">Dreschflegel Saatgut - Biologische Sortenvielfalt<img src="/_img/gartenbild-4.jpg" width="731" height="220" alt="Dreschflegel GbR - Biologisches Saatgut - Gartenbild"></div>
+</div>
+
+<div class="clear"></div>
+
+		
+<div id="Menue" class="main">
+
+
+
+<form method="get" action="/suchen.php">
+<div class="suche"><input type="text" name="q" value="Suchbegriff" title="Suchbegriff hier eingeben" onblur="if(this.value=='')this.value='Suchbegriff';" onfocus="if(this.value=='Suchbegriff')this.value='';"></div>
+<div><input type="submit" value="Suche starten" class="button"></div>
+</form>
+
+
+
+
+
+
+<!-- 
+-->
+
+
+<p class="menuetitel">&#220;ber uns</p>
+
+<ul>
+<li ><a href="/" title="Dreschflegel GbR - Biologisches Saatgut - Startseite">Dreschflegel GbR</a></li>
+<li ><a href="/hoefe/" title="Dreschflegel GbR - Biologisches Saatgut - Unsere H&#246;fe">Unsere H&#246;fe</a></li>
+<li ><a href="/hoefe/versand.php" title="Dreschflegel GbR - Biologisches Saatgut - Unser Versand">Unser Versand</a></li>
+<li ><a href="/kontakt/" title="Dreschflegel GbR - Biologisches Saatgut - Kontakt">Kontakt</a></li>
+<li class="active"><a href="/impressum/" title="Dreschflegel GbR - Biologisches Saatgut - Impressum">Impressum</a></li></ul>
+
+<p class="menuetitel">Service</p>
+
+<ul>
+<li><a href="http://www.dreschflegel-shop.de/" target="_blank" title="Dreschflegel GbR - Biologisches Saatgut - Onlineshop">Onlineshop</a></li>
+<li><a href="http://forum.dreschflegel-saatgut.de/" target="_blank" title="Dreschflegel GbR - Biologisches Saatgut - Forum">Forum</a></li>
+<li ><a href="/gartentelefon/" title="Dreschflegel GbR - Biologisches Saatgut - Gartentelefon">Gartentelefon</a></li>
+<li ><a href="/aktuell/" title="Dreschflegel GbR - Biologisches Saatgut - Aktuelles">Aktuelles</a></li>
+<li ><a href="/bescheinigung.php" title="Dreschflegel GbR - Biologisches Saatgut - Zertifikat">Zertifikat DE-&#214;KO-006</a></li>
+</ul>
+
+<p class="menuetitel">Informationen</p>
+
+<ul>
+<li ><a href="/pflanzenportraits/" title="Dreschflegel GbR - Biologisches Saatgut - Pflanzenportraits">Pflanzenportraits</a></li>
+<li ><a href="/infoblaetter/" title="Dreschflegel GbR - Biologisches Saatgut - PDF-Infobl&auml;tter">PDF-Infobl&auml;tter</a></li>
+<li ><a href="/gartenbaupraxis/" title="Dreschflegel GbR - Biologisches Saatgut - Gartenbaupraxis">Gartenbaupraxis</a></li>
+<li ><a href="/rezepte/rezepte.php" title="Dreschflegel GbR - Biologisches Saatgut - Rezepte">Rezepte</a></li>
+<li ><a href="/saatgutpolitik/" title="Dreschflegel GbR - Biologisches Saatgut - Saatgutpolitik">Saatgutpolitik</a></li>
+<li ><a href="/links/" title="Dreschflegel GbR - Biologisches Saatgut - Linkempfehlungen">Linkempfehlungen</a></li>
+</ul>
+
+<hr>
+
+<ul>
+<li><a href="http://dreschflegel-verein.de/" target="_blank" title="Dreschflegel e. V.">Dreschflegel e. V.</a></li>
+<li><a href="http://www.schaugarten.kuhmuhne.de/" target="_blank" title="Schaugarten Sch&#246;nhagen">Schaugarten Sch&#246;nhagen</a></li>
+</ul>
+
+</div>
+
+<div id="Inhalt">
+
+
+<div class="text">
+<h1>Dreschflegel Bio-Saatgut</h1>
+
+<h2>Fehlermeldung: Verirrt im Labyrinth des Internets</h2>
+
+
+<p><strong>Lieber Besucher des Dreschflegel-Versandes,</strong></p>
+
+<p>Sie haben versucht, eine Datei zu &#246;ffnen, die leider nicht existiert.</p>
+
+<p>Stellenangebote sind z.B. nur tempor&#228;r Teil dieser Website.<br>
+Zur Zeit sind alle Stellen besetzt!</p>
+ 
+<p>Nutzen Sie die <a href="/suchen.php" title="Interne Stichwort-Suche für dreschflegel-saatgut.de">interne Suchfunktion</a>,<br>
+um gezielt nach Stichw&#246;rtern in dreschflegel-saatgut.de zu suchen.</p> 
+ 
+<p>Informationen zu einzelnen Sorten erhalten Sie in unserem <a href="http://www.dreschflegel-shop.de/" title="Dreschflegel Online-Shop - Biologisches Saatgut">Online-Shop</a>.<br>
+Bitte benutzen Sie dort die interne Suchfunktion, die Sie zu der Sorte Ihrer Wahl bringen wird.</p>
+
+
+</div>
+
+</div>
+
+</div>
+
+
+<div id="Fusszeile">
+
+<p>&copy; Dreschflegel 2018 | <a href="/kontakt/" title="Kontakt">Kontakt</a> | <a href="/impressum/" title="Impressum">Impressum</a> | <a href="/sitemap/" title="Sitemap">Sitemap</a> | <a href="/datenschutzerklaerung.php" target="_blank" title="Datenschutzerkl&#228;rung">Datenschutzerkl&#228;rung</a> |  <a href="#top" title="nach oben">nach oben</a> <img alt="nach oben" src="/_gif/up.gif" height="14" width="11"></p></div>
+
+</body>
+
+</html>
