@@ -87,10 +87,10 @@ bicycle: 99%
 6. 学習！
 
 ### 1. 画像のダウンロード 
-1. ImageNetからガシガシダウンロード
-1.1. [ImageNetのサイト](http://image-net.org/download-imageurls)から画像がダウンロードできるURLが載ったtxtをダウンロードしてきます。
-1.2 `python download_imagenet.py`で落としてきます。
-[コードは作りました](https://github.com/higemojakandhi/YOLOv3_OriginalObject/blob/master/download_images/download_imagenet.py)
+1. ImageNetからガシガシダウンロード  
+1.1. [ImageNetのサイト](http://image-net.org/download-imageurls)から画像がダウンロードできるURLが載ったtxtをダウンロードしてきます。  
+1.2 `python download_imagenet.py`で落としてきます。  
+※ [コードは作りました](https://github.com/higemojakandhi/YOLOv3_OriginalObject/blob/master/download_images/download_imagenet.py)  
 2. Google Imagesからダウンロード
 
 ```
@@ -261,7 +261,7 @@ cp yolo_v3.launch eggplant.launch
 
 # RealSenseで認識して距離をとってくる。
 YOLOで認識した画像中の物体の距離を取得するプログラムは自作した。
-https://github.com/higemojakandhi/darknet_ros/blob/master/darknet_ros/scripts/ObjectDepth.py
+https://github.com/watakandhi/darknet_ros/blob/master/darknet_ros/scripts/ObjectDepth.py
 
 # 実行する
 ```
