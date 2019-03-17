@@ -266,7 +266,7 @@ https://github.com/watakandhi/darknet_ros/blob/master/darknet_ros/scripts/Object
 # 実行する
 ```
 roslaunch realsense2_camera rs_rgbd.launch
-roslaunch darknet_ros yolo_v3.launch
+roslaunch darknet_ros eggplant.launch
 rosrun darknet_ros ObjectDepth.py
 rviz
 ```
